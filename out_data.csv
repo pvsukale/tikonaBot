@@ -1,0 +1,6 @@
+Plan_Name,Plan_type,Price,Limit [GBs]
+3 Mbps,UL,750,Unlimited
+6 Mbps,DUL,650,2
+6 Mbps,DUL,750,4
+6Mbps,Post Limit,550,30
+10Mbps,Post Limit,650,30
