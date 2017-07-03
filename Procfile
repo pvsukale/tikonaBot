@@ -1,1 +1,1 @@
-“worker: python tikonabot.py”
+worker: python tikonabot.py
