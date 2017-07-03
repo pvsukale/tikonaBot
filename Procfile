@@ -1,2 +1,2 @@
 worker: python tikonabot.py
-web: python tikonabot.py
+web: gunicorn gettingstarted.wsgi-log-file-

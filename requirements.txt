@@ -4,6 +4,7 @@ cffi==1.10.0
 chardet==3.0.4
 cssselect==1.0.1
 enum34==1.1.6
+gunicorn==19.7.1
 idna==2.5
 ipaddress==1.0.18
 lxml==3.8.0
