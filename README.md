@@ -1,2 +1,1 @@
-tikonaBot
 # tikonaBot
