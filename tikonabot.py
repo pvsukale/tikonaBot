@@ -1,3 +1,4 @@
+#import all modules
 import os
 import time
 from slackclient import SlackClient
@@ -6,9 +7,9 @@ import pandas
 plans = []
 t1 = []
 temp = []
-
+# read file from csv using pandas
 df = pandas.read_csv('out_data.csv')
-
+#read file line by line
 for j in range(len(df)):
     for i in df.loc[j]:
         t1.append(str(i))
